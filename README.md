@@ -10,7 +10,9 @@ This is a list of the files and slides attached used for Lux Tech Python Bootcam
 ## Articles Mentioned
  
  The articles referenced in this sessions are:
+ 
 [Python Features](https://veldakkiara.hashnode.dev/python-features)
+
 [Stacks and Queues](https://veldakkiara.hashnode.dev/data-structures-stacks-and-queues)
 
 ## Presentation
