@@ -18,3 +18,5 @@ This is a list of the files and slides attached used for Lux Tech Python Bootcam
 ## Presentation
  
  Link to the slides : [Velda Slides](https://www.canva.com/design/DAE35E4kFro/QH4db8VcBzPbADf1_qBXig/view?utm_content=DAE35E4kFro&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+Link to the Video: [Youtube](https://www.youtube.com/watch?v=8hH0X1haJTU)
